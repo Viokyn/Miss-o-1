@@ -1,0 +1,12 @@
+main {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+hr {
+    width: 95%;
+    text-align: center;
+    margin: 0px;
+}
